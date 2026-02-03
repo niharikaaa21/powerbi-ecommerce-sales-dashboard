@@ -49,7 +49,7 @@ The dashboard is designed to help stakeholders:
 ## Key Visuals
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/overview.png)
 
 ---
 
